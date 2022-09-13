@@ -21,5 +21,5 @@
 🔗 &nbsp;**Connect with me**
 <p align="left">
  <a href="https://mariopdev.com" target="blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/domain.png" alt="gautamkrishnar" height="40" width="40" /></a>
-<a href="https://www.instagram.com/mariopperezz_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mariopdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
