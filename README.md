@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey!</h1>
 
 
-<p>Welcome to my page! </br> I'm Mario, future Fullstack developer from <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Bandera_de_Espa%C3%B1a_%28nuevo_dise%C3%B1o%29.svg" alt="gautamkrishnar" height="20" width="20" /></a>  <b>Asturias, España</b></p>
+<p>Welcome to my page! </br> I'm Mario, Fullstack developer and Data Engineer from <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Bandera_de_Espa%C3%B1a_%28nuevo_dise%C3%B1o%29.svg" alt="gautamkrishnar" height="20" width="20" /> <b>Asturias, España</b></p>
 <p>Currently studying <i>Ingeniería Informática del Software</i> in the <a href="https://ingenieriainformatica.uniovi.es/" alt="Página de la Escuela de Ingeniería Informática de la Universidad de Oviedo">EII, Universidad de Oviedo</a></p>
 <h3>Things I code with</h3>
 <p>
@@ -18,7 +18,8 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-
+<p>Pertenezco al Colegio Oficial de Graduados en Ingeniería Informática e Ingenieros Técnicos en Informática del Principado de Asturias (CITIPA)</p>
+<div align="center"><img src="https://www.citipa.org/wp-content/uploads/2019/04/Logotipo-CITIPA.org-v2-texto-v2-1500x750-1024x512.png" height="150" width="auto" /> </div>
 🔗 &nbsp;**Connect with me**
 <p align="left">
  <a href="https://mariopdev.com" target="blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/domain.png" alt="gautamkrishnar" height="40" width="40" /></a>
