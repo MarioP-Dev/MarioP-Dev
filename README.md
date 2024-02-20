@@ -18,7 +18,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-<p>Pertenezco al Colegio Oficial de Graduados en Ingeniería Informática e Ingenieros Técnicos en Informática del Principado de Asturias (CITIPA)</p>
+<p>I belong to <a href="https://www.citipa.org" alt="Official website of CITIPA">Colegio Oficial de Graduados en Ingeniería Informática e Ingenieros Técnicos en Informática del Principado de Asturias (CITIPA)</a>, a professional group of Technical Computer Engineers</p>
 <div align="center"><img src="https://www.citipa.org/wp-content/uploads/2019/04/Logotipo-CITIPA.org-v2-texto-v2-1500x750-1024x512.png" height="150" width="auto" /> </div>
 🔗 &nbsp;**Connect with me**
 <p align="left">
